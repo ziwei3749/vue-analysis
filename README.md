@@ -1,3 +1,5 @@
+***fork自 https://github.com/ustbhuangyi/vue-analysis 的vue源码电子书***
+
 # Vue.js 技术揭秘
 
 [电子书](https://ustbhuangyi.github.io/vue-analysis/)
